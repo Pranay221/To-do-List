@@ -72,6 +72,15 @@ li:hover
 	background: #76CFE0;
 }
 
+li > button 
+{
+	font-weight: normal;
+	background: none;
+	border: none;
+	float: right;
+	color: #025f70;
+	font-weight: 800;
+}
 input 
 {
 	border-radius: 5px;
